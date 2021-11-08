@@ -1,2 +1,3 @@
-# masters-thesis
-Ecological niche modeling of threatened bats under current and future climate change
+# research-papers
+- Literature review of anthropogenic disturbances of NA bats (2019)
+- Master's thesis (2021)
